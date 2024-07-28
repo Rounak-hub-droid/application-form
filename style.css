@@ -8,11 +8,7 @@
 }
 body{
     /* background-color: #ccc; */
-<<<<<<< HEAD
-    background: url(/P1jobSelection/img/tim-mossholder-idUvMlDQvSs-unsplash.jpg);
-=======
     background: url(/tim-mossholder-idUvMlDQvSs-unsplash.jpg);
->>>>>>> 89830c3d6a84829f668589956b23219a68872b9d
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -32,7 +28,7 @@ body{
     border: 1px solid#ccc;
     background-color: #f5f5f57d;
     backdrop-filter: blur(10px);
-    box-shadow: 5px 9px 10px rgba(1, 1, 1, 0.5);
+    box-shadow: 5px 9px 10px rgba(1, 1, 1, 0.8);
     border-radius: 15px;
 }
 .small{
